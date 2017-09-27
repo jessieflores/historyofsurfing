@@ -1,0 +1,30 @@
+
+body {
+
+  background-image: url("https://img.grouponcdn.com/iam/fpGyga7LvTyrEjY851DL/sw-2048x1242/v1/c700x420.jpg");
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  font-family: Raleway;
+}
+
+p {
+  font-family: "Mukuta";
+  color: red;
+}
+
+img {
+  float: top;
+  width: 200px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
